@@ -1,1 +1,3 @@
 ini adalah file untuk tes conflict
+
+# ini feature dari branch feature2
